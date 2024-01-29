@@ -14,7 +14,7 @@
 
 <b>Results</b>
 
-![Aggregate Report](Results/number of responses per second.png?raw=true "Title")
+![Aggregate Report](Results/number_of_responses_per_second.png?raw=true "Title")
 
 ![Aggregate Report](Results/FVDopen.png?raw=true "Title")
 
